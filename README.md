@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## Welcome to ```Aly & Ben's``` wedding pages
 
 You can use the [editor on GitHub](https://github.com/ef33zy/alyben-wedding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
